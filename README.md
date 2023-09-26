@@ -15,11 +15,11 @@ I'm a junior iOS developer who believes that technology makes our lives more eff
 - MVC, MVVM, VIPER, Clean architecture
 - Singleton, Delegate, Coordinator
 - RestApi
+- GCD
 - OOP, SOLID, DRY, KISS
 - Git, GitHub
-- GCD
 
-### Frameworks:
+### 🛠️ Frameworks:
 - Foundation
 - UIKit
 - SnapKit
@@ -35,7 +35,7 @@ I'm a junior iOS developer who believes that technology makes our lives more eff
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     <a href="mailto:worldinfair761@gmail.com" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="40" height="40" alt="email" />
-    <a href="https://www.linkedin.com/in/sviatoslav-samoilov-907274293/" target="_blank">
+    <a href="www.linkedin.com/in/kosmosviat" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin" />
   </div>
 

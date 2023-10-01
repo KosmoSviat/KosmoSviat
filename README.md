@@ -6,7 +6,7 @@
 ### 🧑🏻 About me:
 
 Samurai has no purpose, only commits...  
-I'm a Junior iOS Developer with a year of experience in developing my own apps (see the pinned).  
+I'm a iOS Developer with a year of experience in developing my own apps (see the pinned).  
 I've always loved technology and learning about it. I can't count the number of devices I've bought just to try it myself and figure out how it works. This path led me to software development and constantly fuels my interest in learning new things.
 
 ---

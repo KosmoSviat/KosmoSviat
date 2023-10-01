@@ -5,7 +5,9 @@
 
 ### 🧑🏻 About me:
 
-I'm a junior iOS developer who believes that technology makes our lives more efficient and better. That's why I came into development and love my job so much 🥰 Over the past year, I've been learning iOS app development and creating my own projects (which you can check out in my profile)🧑🏻‍💻 Now I am on a job search to find a better use for my skills.
+Samurai has no purpose, only commits...  
+I'm a Junior iOS Developer with a year of experience in developing my own apps (see attached).  
+I've always loved technology and learning about it. I can't count the number of devices I've bought just to try it myself and figure out how it works. This path led me to software development and constantly fuels my interest in learning new things.
 
 ---
 

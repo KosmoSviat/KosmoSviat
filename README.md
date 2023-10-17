@@ -12,13 +12,14 @@ I've always loved technology and learning about it. I can't count the number of 
 ---
 
 ### 🧑🏻‍💻 My stack:
-- Swift, Xcode
-- AutoLayout, Storyboard, xib
+- Swift, iOS SDK
+- Storyboard, xib, Auto Layout
 - MVC, MVVM, VIPER, Clean architecture
-- Singleton, Delegate, Coordinator
-- RestApi
+- REST API, JSON
 - GCD
-- OOP, SOLID, DRY, KISS
+- Swift Package Manager, CocoaPods, Carthage
+- SOLID, DRY, KISS
+- Unit testing
 - Git, GitHub
 
 ### 🛠️ Frameworks:

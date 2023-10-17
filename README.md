@@ -13,7 +13,7 @@ I've always loved technology and learning about it. I can't count the number of 
 
 ### 🧑🏻‍💻 My stack:
 - Swift, iOS SDK
-- Storyboard, xib, Auto Layout
+- Storyboard, XIB, Auto Layout
 - MVC, MVVM, VIPER, Clean architecture
 - REST API, JSON
 - GCD

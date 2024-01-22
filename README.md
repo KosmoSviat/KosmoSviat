@@ -13,20 +13,20 @@ I've always loved technology and learning about it. I can't count the number of 
 ### 🧑🏻‍💻 My stack:
 - Swift, iOS SDK
 - Storyboard, XIB, Auto Layout
-- MVC, MVVM, VIPER, Clean architecture
+- MVC, MVVM, VIPER
 - REST API, JSON
 - GCD
 - Swift Package Manager, CocoaPods, Carthage
 - SOLID, DRY, KISS
 - Unit testing
-- Git, GitHub
+- Git
 
 ### 🛠️ Frameworks:
 - Foundation
 - UIKit
 - SnapKit
 - CoreData
-- Firebase Auth, Firebase Storage, Firestore
+- Firebase
 
 ---
 

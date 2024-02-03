@@ -10,26 +10,6 @@ I've always loved technology and learning about it. I can't count the number of 
 
 ---
 
-### 🧑🏻‍💻 My stack:
-- Swift, iOS SDK
-- Storyboard, XIB, Auto Layout
-- MVC, MVVM, VIPER
-- REST API, JSON
-- GCD
-- Swift Package Manager, CocoaPods, Carthage
-- SOLID, DRY, KISS
-- Unit testing
-- Git
-
-### 🛠️ Frameworks:
-- Foundation
-- UIKit
-- SnapKit
-- CoreData
-- Firebase
-
----
-
 ### ✉️ How to contact me:
 
   <div id="badges">
